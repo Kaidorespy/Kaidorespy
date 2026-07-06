@@ -1,7 +1,7 @@
   # formslip
 
 
-  Source-available under [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) unless otherwise noted.
+  Open source under the [MIT License](./LICENSE).
 
   **Patreon:** [patreon.com/formslip](https://patreon.com/formslip) — fund a specific project, get direct updates.
 
