@@ -3,9 +3,9 @@
 
   Open source under the [MIT License](./LICENSE).
 
-  **Patreon:** [patreon.com/formslip](https://patreon.com/formslip) — fund a specific project, get direct updates.
+  **Itch.io:** [itch.io/formslip](https://itch.io/formslip) - double-click downloads
 
-  **Itch.io:** [itch.io/formslip](https://itch.io/formslip)
+  **Tip Jar** [Paypal](https://paypal.me/CEvans898?locale.x=en_US&country.x=US)
 
   ---
   ## Released
